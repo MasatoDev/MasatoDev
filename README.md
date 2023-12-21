@@ -10,7 +10,7 @@ Hi! I'm Massa 👨‍💻
   github
 </h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MasatoDev&margin-w=0)](https://github.com/MasatoDev/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MasatoDev)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
