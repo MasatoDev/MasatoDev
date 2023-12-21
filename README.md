@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 style="text-align: center;">
+Hi! I'm Massa 👨‍💻
+</h1>
 
-<!--
-**MasatoDev/MasatoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/badge/-x(twitter)-000000?logo=x&link=https%3A%2F%2Ftwitter.com%2FEnginnerJoyca)
+![](https://img.shields.io/badge/-hashnode-000000?logo=hashnode&logoColor=2962FF&link=https%3A%2F%2Fhashnode.com%2F%40massa)
+![](https://komarev.com/ghpvc/?username=MasatoDev)
 
-Here are some ideas to get you started:
+<h2>
+  github
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=MasatoDev&margin-w=0)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=MasatoDev&count_private=true&show_icons=true&theme=buefy" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasatoDev&theme=buefy" />
+  </a>
+</p>
+
+![20210820_210820_4](https://github.com/MasatoDev/MasatoDev/assets/46220963/09f113f5-4ce2-4b83-acc8-8aa3bb454702)
