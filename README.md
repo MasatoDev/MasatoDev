@@ -2,6 +2,7 @@
 Hi! I'm Masato 👨‍💻
 
 This account is used primarily for non-business development.
+I mainly use Typescript and Rust.
   
 </h1>
 
@@ -13,7 +14,7 @@ This account is used primarily for non-business development.
   github
 </h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MasatoDev)](https://github.com/ryo-ma/github-profile-trophy&title=Commits,Experience)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MasatoDev&title=Commits,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -24,4 +25,4 @@ This account is used primarily for non-business development.
   </a>
 </p>
 
-![20210820_210820_4](https://github.com/MasatoDev/MasatoDev/assets/46220963/09f113f5-4ce2-4b83-acc8-8aa3bb454702)
+ <img src="https://github.com/MasatoDev/MasatoDev/assets/46220963/09f113f5-4ce2-4b83-acc8-8aa3bb454702" width="50%" />
