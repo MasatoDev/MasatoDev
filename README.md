@@ -1,10 +1,9 @@
 <h1 style="text-align: center;">
 Hi! I'm Masato 👨‍💻
-
-This account is used primarily for non-business development.
-I mainly use Typescript and Rust.
-  
 </h1>
+
+<p>This account is used primarily for non-business development.</p>
+<p>I mainly use Typescript and Rust.</p>
 
 ![](https://img.shields.io/badge/-x(twitter)-000000?logo=x&link=https%3A%2F%2Ftwitter.com%2FEnginnerJoyca)
 ![](https://img.shields.io/badge/-hashnode-000000?logo=hashnode&logoColor=2962FF&link=https%3A%2F%2Fhashnode.com%2F%40massa)
